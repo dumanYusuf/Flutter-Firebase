@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084608256588",
+    "project_id": "fir-ders-f77bb",
+    "storage_bucket": "fir-ders-f77bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084608256588:android:a752f616e76a23f8bb32e9",
+        "android_client_info": {
+          "package_name": "com.example.firestore_notdefteri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8uwiI-JP6aEbQPoa-ac_9mFkDhvFFOKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

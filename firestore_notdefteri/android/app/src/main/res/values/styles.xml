@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_app_id">1:1084608256588:android:a752f616e76a23f8bb32e9</string>
+    <string name="google_api_key">AIzaSyA8uwiI-JP6aEbQPoa-ac_9mFkDhvFFOKc</string>
+    <string name="firebase_database_url">https://fir-ders-f77bb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">1084608256588</string>
+    <string name="google_storage_bucket">fir-ders-f77bb.appspot.com</string>
+    <string name="project_id">fir-ders-f77bb</string>
+    <string name="google_crash_reporting_api_key">AIzaSyA8uwiI-JP6aEbQPoa-ac_9mFkDhvFFOKc</string>
+</resources>
